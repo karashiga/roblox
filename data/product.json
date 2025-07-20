@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sombrero of Power",
+        "description": "This limited edition sombrero gives your avatar +10 charisma and makes you stand out in any Roblox game.",
+        "price": 250,
+        "image": "https://via.placeholder.com/300x200?text=Sombrero+of+Power",
+        "status": "in-stock",
+        "onSale": "no"
+    },
+    {
+        "name": "Rainbow Cape",
+        "description": "Fly in style with this exclusive rainbow cape that changes colors as you move.",
+        "price": 350,
+        "image": "https://via.placeholder.com/300x200?text=Rainbow+Cape",
+        "status": "in-stock",
+        "onSale": "yes",
+        "salePrice": 300
+    },
+    {
+        "name": "Golden Sword",
+        "description": "The ultimate weapon for your Roblox adventures with special effects and animations.",
+        "price": 500,
+        "image": "https://via.placeholder.com/300x200?text=Golden+Sword",
+        "status": "out-of-stock",
+        "onSale": "no"
+    }
+]
